@@ -10,4 +10,4 @@ A productivity app for shift workers — shifts, pay, bills, savings, debts and 
 - [Privacy Policy](/privacy)
 - [Terms of Service](/terms)
 
-Contact: [support@avara.app](mailto:support@avara.app)
+Contact: [geopolyapp@gmail.com](mailto:geopolyapp@gmail.com)

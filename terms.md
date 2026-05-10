@@ -9,11 +9,11 @@ permalink: /terms
 **Effective date:** 1 January 2025
 **Last updated:** 1 January 2025
 
-These Terms of Service ("Terms") govern your use of the **Avara** mobile application ("Avara", the "App", "we", "us", "our"). By installing or using Avara you agree to be bound by these Terms. If you do not agree, do not use the App.
+These Terms of Service ("Terms") govern your use of the **Avara** mobile application ("Avara", the "App", "we", "us", "our"). Avara is operated by GeoPoly. By installing or using Avara you agree to be bound by these Terms. If you do not agree, do not use the App.
 
 For information about how we handle your data, please read our [Privacy Policy](https://will8447.github.io/avara-site/privacy).
 
-Contact: **support@avara.app**
+Contact: **geopolyapp@gmail.com**
 
 ---
 
@@ -222,4 +222,4 @@ We may update these Terms from time to time. The "Last updated" date at the top 
 
 For any questions about these Terms:
 
-**Email:** support@avara.app
+**Email:** geopolyapp@gmail.com

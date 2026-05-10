@@ -9,11 +9,11 @@ permalink: /privacy
 **Effective date:** 1 January 2025
 **Last updated:** 1 January 2025
 
-This Privacy Policy explains how the **Avara** mobile application ("Avara", "we", "us", "our") handles your information. Avara is published as an iOS application by the Avara team. By installing or using Avara you agree to this Policy.
+This Privacy Policy explains how the **Avara** mobile application ("Avara", "we", "us", "our") handles your information. Avara is a GeoPoly product, published as an iOS application by GeoPoly. By installing or using Avara you agree to this Policy.
 
 We have built Avara to keep as much of your data as possible on your own device. The only data that ever leaves your device is what is strictly required to deliver the AI assistant, voice transcription, optional household sharing, and subscription handling — and only when you choose to use those features.
 
-If you have any questions, please contact us at **support@avara.app**.
+If you have any questions, please contact us at **geopolyapp@gmail.com**.
 
 ---
 
@@ -181,7 +181,7 @@ This will:
 
 After deletion, no account-linked record remains in our backend. Apple-managed subscription history is governed by Apple, not by us — to cancel an active subscription, use **iOS Settings → Apple ID → Subscriptions**.
 
-You may also delete only your AI memory (without deleting your account) by calling `DELETE /api/memory` from a future Settings option, or by contacting us at **support@avara.app**.
+You may also delete only your AI memory (without deleting your account) by calling `DELETE /api/memory` from a future Settings option, or by contacting us at **geopolyapp@gmail.com**.
 
 ---
 
@@ -215,7 +215,7 @@ We do not share data with any advertising network, data broker, analytics provid
 
 ## 12. Children
 
-Avara is not directed at children under the age of 13 (or the equivalent minimum age in your jurisdiction) and we do not knowingly collect personal information from children. If you believe a child has used Avara, please contact us at **support@avara.app** and we will delete any associated data.
+Avara is not directed at children under the age of 13 (or the equivalent minimum age in your jurisdiction) and we do not knowingly collect personal information from children. If you believe a child has used Avara, please contact us at **geopolyapp@gmail.com** and we will delete any associated data.
 
 ---
 
@@ -231,7 +231,7 @@ If you are located in the UK or the European Economic Area, the UK GDPR and EU G
 - The right to **withdraw consent** at any time where we relied on consent (e.g. by disabling permissions in iOS Settings).
 - The right to **lodge a complaint** with your local supervisory authority. In the UK, that is the Information Commissioner's Office (https://ico.org.uk).
 
-To exercise any of these rights, contact us at **support@avara.app**.
+To exercise any of these rights, contact us at **geopolyapp@gmail.com**.
 
 The lawful bases on which we process the limited data described in this Policy are: (a) **performance of a contract** (delivering the AI assistant, voice transcription, and subscription you requested) and (b) **legitimate interests** (operating, securing and rate-limiting the service). We do not rely on consent for any processing other than what iOS itself collects via permission prompts.
 
@@ -267,6 +267,6 @@ We may update this Policy from time to time. The "Last updated" date at the top 
 
 If you have any questions, requests, or concerns about this Privacy Policy or your data:
 
-**Email:** support@avara.app
+**Email:** geopolyapp@gmail.com
 
 We aim to respond within a reasonable time, and in any event within the time required by applicable law.
