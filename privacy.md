@@ -119,7 +119,7 @@ Avara only requests permissions when you use the relevant feature, and you can c
 | **Microphone** | To record voice messages for the AI assistant. | Only when you tap the microphone button. Audio is sent to OpenAI for transcription as described in §5, then discarded. |
 | **Speech Recognition** | iOS framework used by voice features. | Only during voice input. |
 | **Calendar (EventKit, full access)** | To import existing calendar events you choose, and to create or update events you ask Avara to create on your behalf. | Only when you opt in to calendar import or ask the AI to create an event. We never silently read or modify your calendar. |
-| **Camera** | Reserved for optional photo-based features such as scanning a bill or receipt. Not currently used to upload images off-device. | Only when you actively choose to use a camera-based feature. |
+| **Camera** | To scan QR codes only. Used when linking a partner's shared subscription (you scan their QR code to receive premium access) and when importing shift schedules from another device via QR. No photos, videos, or images are captured, stored, or uploaded. The camera is used solely for QR metadata recognition. | Only when you choose to scan a QR code. Shifts can also be imported via file without using the camera. |
 | **Notifications** | To remind you about shifts, bills, paydays and tasks you've set up locally. | All notifications are scheduled locally on your device. We do not send push notifications from a server. |
 
 We do **not** request location, contacts, photo library, motion, health, Bluetooth, or local-network access.
