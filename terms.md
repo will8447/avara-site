@@ -11,7 +11,7 @@ permalink: /terms
 
 These Terms of Service ("Terms") govern your use of the **Avara** mobile application ("Avara", the "App", "we", "us", "our"). By installing or using Avara you agree to be bound by these Terms. If you do not agree, do not use the App.
 
-For information about how we handle your data, please read our [Privacy Policy](https://avara.app/privacy).
+For information about how we handle your data, please read our [Privacy Policy](https://will8447.github.io/avara-site/privacy).
 
 Contact: **support@avara.app**
 
@@ -98,7 +98,7 @@ You retain all rights to the personal records you create in Avara (shifts, bills
 
 By using the AI assistant or voice transcription, you grant us a non-exclusive, worldwide, royalty-free licence to process the content you submit solely to operate, maintain and improve the AI features for you, and to forward that content to our model provider (OpenAI) for the purpose of generating a response. We do not use your content to train AI models, and our model provider is contractually prevented from using API content to train its models.
 
-For full details please read the [Privacy Policy](https://avara.app/privacy).
+For full details please read the [Privacy Policy](https://will8447.github.io/avara-site/privacy).
 
 ---
 
