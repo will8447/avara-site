@@ -1,0 +1,7 @@
+title: Avara
+description: Avara — legal documents
+theme: minima
+permalink: pretty
+exclude:
+  - README.md
+  - CNAME
