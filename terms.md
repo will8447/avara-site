@@ -32,30 +32,34 @@ You may not:
 - Reverse engineer, decompile, or disassemble the App except where applicable law expressly permits it.
 - Resell, sublicense, rent, or commercially redistribute the App.
 - Use automated tools, scripts, scrapers, or bots to interact with the App or our backend.
-- Attempt to bypass rate limits, trial-period checks, subscription validation, or any other technical control.
+- Attempt to bypass rate limits, trial-period checks, purchase validation, or any other technical control.
 - Use the App in any way that violates applicable law or infringes the rights of others.
 
 ---
 
-## 3. Subscriptions, billing and trials
+## 3. Free planning, Premium and purchases
 
-AutoMate offers optional Premium features through Apple: unlimited active bills, planning new shifts beyond the free horizon, and automatic shift alarms after their preview. The app shows the current price, currency and billing period before purchase. Purchases and restoration use the purchasing Apple account, separately from any AutoMate cloud account.
+From AutoMate 1.2.0, planning shifts and bills is unlimited on the free plan, supported by clearly labelled advertising. Core planning works without an account.
 
-### 3.1 Free planning
+### 3.1 One-time Premium
 
-Free use includes up to 10 active bills and new shift planning up to 30 days ahead. Existing records remain available. Core planning can be used without an account.
+Premium removes in-app advertising and unlocks automatic shift alarms after their preview. It is a non-consumable App Store purchase: pay once, with no subscription or recurring charge. The UK launch price is £3.99; the app displays Apple's current local price before purchase. Use Restore purchases with the same purchasing Apple Account on a replacement iPhone or iPad. An AutoMate Apple/Google cloud sign-in is separate from your App Store purchasing account.
 
-### 3.2 Automatic-alarm preview
+The permanent unlock has no renewal date and applies for as long as AutoMate is offered and compatible with your device. It does not promise perpetual operation of third-party services. Statutory consumer rights remain unaffected.
 
-The seven-day preview starts when the first automatic alarm is successfully scheduled. It ends automatically and does not itself start an App Store subscription. Automatic alarms require iOS/iPadOS 26 or later and permission on each device. The app displays the preview end date; alarms after that time need Premium.
+### 3.2 Previous subscribers
 
-### 3.3 Auto-renewal
+Customers with an eligible, verified, non-refunded paid monthly or yearly purchase receive permanent Premium in 1.2.0 at no additional cost, including when their paid subscription has expired. A free trial without a paid transaction does not qualify. Restore purchases if access does not appear. Your existing paid period continues to be honoured. You can cancel an old subscription's renewal in iOS Settings → Apple Account → Subscriptions without losing this permanent unlock. Deleting a cloud account or the app does not cancel an old Apple subscription.
 
-Apple subscriptions auto-renew unless cancelled at least 24 hours before the end of the current period. The renewal price will be charged to your App Store account. **You can manage or cancel your subscription at any time via iOS Settings → Apple ID → Subscriptions.** We cannot cancel an Apple-managed subscription on your behalf.
+### 3.3 Automatic-alarm preview
 
-### 3.4 Refunds
+The seven-day preview starts when the first automatic alarm is successfully scheduled. It ends automatically and never creates a purchase or subscription. Automatic alarms require iOS/iPadOS 26 or later and permission on each device. The app displays the preview end date; alarms after that time require Premium.
 
-All payments are processed by Apple. Refund requests must be submitted to Apple via https://reportaproblem.apple.com. We do not directly issue refunds for App Store purchases.
+### 3.4 Advertising and refunds
+
+Free use may display native ads supplied by Google AdMob. Consent and privacy choices are available as described in the Privacy Policy. Declining optional consent does not remove access to your free planner; available ads depend on your privacy choices, connection and ad availability. Ads are third-party content and do not represent an endorsement by AutoMate.
+
+Apple processes all payments. Request refunds through [Apple's purchase support](https://reportaproblem.apple.com). A refunded or revoked purchase can remove the access it granted.
 
 ---
 
@@ -96,9 +100,9 @@ We reserve the right to investigate suspected violations and to take appropriate
 
 ## 7. Service availability and changes
 
-We work to keep AutoMate reliable, but we do not guarantee that the App or our backend will be uninterrupted, error-free, or available at all times. We may modify, suspend, or discontinue any feature (including optional cloud syncing or specific endpoints) at any time, with or without notice. Where reasonable, we will give advance notice of material changes that affect paying subscribers.
+We work to keep AutoMate reliable, but we do not guarantee that the App or our backend will be uninterrupted, error-free, or available at all times. We may modify, suspend, or discontinue any feature (including optional cloud syncing or specific endpoints) at any time, with or without notice. Where reasonable, we will give advance notice of material changes that affect paying customers.
 
-If we permanently discontinue Premium, we will stop accepting new subscriptions and continue to honour existing paid periods until they naturally expire.
+If we permanently discontinue Premium, we will stop accepting new purchases, provide reasonable notice, honour any remaining paid subscription periods and comply with applicable consumer rights.
 
 We may release updates to the App from time to time. Some updates may be required for the App to continue functioning correctly with our backend.
 
@@ -106,7 +110,7 @@ We may release updates to the App from time to time. Some updates may be require
 
 ## 8. Third-party services
 
-AutoMate relies on Apple for the App Store, StoreKit, operating-system services and Maps; Supabase for optional account storage; Apple and Google for selected sign-in services; and GitHub for the public website. Optional logo services and the data they receive are described in the Privacy Policy.
+AutoMate relies on Apple for the App Store, StoreKit, operating-system services and Maps; Supabase for optional account storage; Apple and Google for selected sign-in services; GitHub for the public website; and Google AdMob for free-tier advertising and consent management. Optional logo services and the data they receive are described in the Privacy Policy.
 
 Your use of those services is also subject to their own terms. We are not responsible for the acts or omissions of any third-party service except to the extent we are required to be by law.
 
