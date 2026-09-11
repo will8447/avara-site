@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow"><meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; connect-src https://taqftojtdrthakmovapq.supabase.co; base-uri 'none'; form-action 'none'">
+  <title>A rota shared with you · AutoMate</title>
+  <meta name="description" content="See a shared rota and make time for each other with AutoMate.">
+  <link rel="stylesheet" href="./style.css"><script src="./share.js" defer></script>
+</head>
+<body>
+  <header><a class="wordmark" href="https://apps.apple.com/app/id6761054908" rel="noreferrer"><span class="mark" aria-hidden="true">A.</span>AutoMate<span class="dot">.</span></a><span class="eyebrow">TIME FOR EACH OTHER</span></header>
+  <main>
+    <section class="intro">
+      <p class="eyebrow">A ROTA SHARED WITH YOU</p>
+      <h1>Make plans.<br>Find your time.</h1>
+      <p class="lede">A little less “when are you working?”<br>A little more time together.</p>
+      <div id="actions" hidden>
+        <a id="open-app" class="button primary" href="#">Add this rota in AutoMate <span aria-hidden="true">↗</span></a>
+        <a class="button secondary" href="https://apps.apple.com/app/id6761054908" rel="noreferrer">Get the app for iPhone &amp; iPad</a>
+        <p class="install-note">Installing for the first time? <strong>Return to this message and open the link again after installation.</strong> Then tap “Add this rota in AutoMate”. You'll preview it before adding it as a separate person.</p>
+        <button class="text-button" id="copy" type="button">Copy this rota link</button>
+        <p id="copy-status" class="small" role="status"></p>
+      </div>
+      <div class="about"><span class="mini-icon" aria-hidden="true">▦</span><p><strong>Your shifts. Your bills. More breathing room.</strong><br>AutoMate brings your rota and everyday planning together. Adding a shared rota is free.</p></div>
+    </section>
+    <section class="rota-card" aria-label="Shared rota preview">
+      <div class="card-header"><span class="eyebrow">THE PLAN</span><span class="pill">Shared copy</span></div>
+      <h2 id="rota-title">Opening the rota…</h2>
+      <p id="status" role="status" class="small">Checking this link.</p>
+      <ul id="shifts" class="shifts"></ul>
+      <button class="button secondary" id="more" type="button" hidden>Show more entries</button>
+      <p id="copy-note" class="small" hidden>This is a snapshot of the sender’s rota. Later changes need a new link. Times above use the sender’s time zone.</p>
+    </section>
+  </main>
+  <footer>Anyone with this link can view the rota. Please share it thoughtfully.<br>AutoMate · <a href="mailto:geopolyapp@gmail.com">Get help</a></footer>
+</body>
+</html>
