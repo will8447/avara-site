@@ -29,6 +29,7 @@ Supabase hosts the account service. Our current Free project provides one day of
 
 ### Device permissions and optional services
 
+- **Widgets:** the app writes a local snapshot of relevant shift, bill and payday information into its shared widget storage. Widgets can show this information on the Home Screen or Lock Screen where you add them. They do not make separate advertising or cloud-sync requests.
 - **Alarms and notifications:** scheduled locally when you enable them and the operating system grants permission. Alarm/notification permissions are separate on each device and are not copied through account sync.
 - **Apple Maps:** when you configure addresses and use route information, address searches, route coordinates and departure times are processed through Apple Maps. You can instead use a manually entered commute duration.
 - **Siri and Shortcuts:** if you invoke a shift action, AutoMate reads your own rota stored on that device and returns a text/spoken summary to Apple's system. The actions require device authentication and may include duty names, dates and working hours. They exclude other people's calendars, bills, private notes and absence reasons. Siri and Shortcuts process the request and result under your Apple settings and Apple's terms; this is not a claim that all Siri processing stays on your device. These actions do not send a separate request to AutoMate's cloud service.

@@ -5,3 +5,9 @@ permalink: pretty
 exclude:
   - README.md
   - CNAME
+
+header_pages:
+  - index.md
+  - support.md
+  - privacy.md
+  - terms.md

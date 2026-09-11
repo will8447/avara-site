@@ -53,9 +53,17 @@ Choose Paid From on each bill and assign its bank account or credit card. Bank c
 
 These are bill totals, not live balances or card statements. Shared-bill reimbursements are not deducted from the debit amount. Enter any credit-card repayment separately as a bill paid from your bank. Savings, debt planning, trends and payment-account management remain in Money → More.
 
-## Restore Premium or cancel
+## Restore Premium
 
-Choose Restore Purchases and use the Apple account that originally purchased Premium. Your optional AutoMate cloud account and App Store subscription are separate. Manage or cancel subscriptions through Apple's subscription settings. For App Store refunds, use Apple's Report a Problem service.
+From version 1.2.0, Premium costs £3.99 once in the UK and removes ads and unlocks automatic shift alarms. The app shows your local App Store price before purchase. There is no new subscription. Choose Restore Purchases with the Apple Account that originally bought Premium; your optional Apple/Google cloud sign-in is separate.
+
+Previous customers with a verified, non-refunded paid monthly or yearly transaction receive permanent Premium at no extra cost, including after expiry. A free trial alone does not qualify. You can cancel an old subscription's remaining renewal through Apple's subscription settings and keep this permanent unlock. For App Store refunds, use Apple's Report a Problem service.
+
+## Home Screen and Lock Screen widgets
+
+Look for **AutoMate** in the widget picker. Widgets include Next Shift, Next Bill, Bill Payments and Payday. Bill Payments uses the same bank and card calculations as Money; it does not infer your actual bank balance or whether you have enough saved. If it asks you to refresh, open AutoMate to load the latest planning period. Existing installed widgets retain their identifiers when the app updates.
+
+Widgets read a local snapshot. Open AutoMate after editing a plan on another device so sync and the local widget snapshot can update.
 
 ## Delete your data
 
