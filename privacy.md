@@ -9,7 +9,7 @@ permalink: /privacy
 AutoMate is a GeoPoly product that helps you organise shifts, bills and personal planning. Contact us about your information at **geopolyapp@gmail.com**.
 
 **Operator/controller:** GeoPoly. **Contact:** geopolyapp@gmail.com.
-**Last updated:** 11 September 2026. This notice describes AutoMate 1.2.0 and later. For earlier Avara versions, see the [earlier notice](https://will8447.github.io/avara-site/privacy-avara-legacy). Updating the app does not itself delete records from the former AI service; contact us for help with those records.
+**Last updated:** 12 September 2026. This notice describes AutoMate 1.2.0 and later. For earlier Avara versions, see the [earlier notice](https://will8447.github.io/avara-site/privacy-avara-legacy). Updating the app does not itself delete records from the former AI service; contact us for help with those records.
 
 ### Using AutoMate without an account
 
@@ -22,6 +22,8 @@ Deleting the app can remove its local data. A device backup may contain app data
 When you choose Sign in with Apple or Google, the provider supplies an account identifier and available email/profile information to our authentication service. Apple may supply a private relay address. AutoMate stores its session credentials in the device Keychain. It does not receive your Apple or Google password.
 
 Signing in uploads your supported planning records to our Supabase project: shifts and templates, people and their schedules, bills and repeating-bill templates, events, income, savings, debts and balances, accounts, notes and planning settings. These settings can include your name, job details and home/work addresses or coordinates if you entered them. Your account identifier connects this information across your devices.
+
+From build 57, the app also keeps a protected local copy from before syncing to help recover missing shifts. This recovery copy is excluded from device backups and is not uploaded separately. It remains on the device until you use Remove all data from this device, delete the cloud account through the app, or remove the app. Signing out alone retains it.
 
 The service stores your current plan and up to 100 prior accepted plan revisions. Updates sync while the app is open and when it next opens after reconnecting. Conflicting changes require your choice. This service uses encrypted network connections and access controls; it is not end-to-end encryption that prevents the service operator from accessing stored plans.
 

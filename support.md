@@ -37,6 +37,12 @@ Open AutoMate after reconnecting to send offline changes. Check the last-success
 
 A manual backup is another recovery option: export the passphrase-protected file, keep the passphrase safe, then import it on the destination device. Restoring replaces the local planning copy. If signed in, restored planning data can sync to that account.
 
+## Missing shifts after signing in
+
+Update to AutoMate 1.2.0 build 57 or later when available. This build protects shifts against incomplete sync copies. Keep the app installed and check that the correct person is selected above the calendar.
+
+If shifts are still missing, Settings → Account & sync → Recover missing shifts can check saved history for entries that are absent, without replacing current entries or intentionally deleted shifts. Recovery depends on a saved copy existing. If you already re-entered the shifts, do not run recovery without checking with support: the older entries may have different identifiers and appear as duplicates. Export a manual backup first. After a successful recovery, tap Sync now.
+
 ## Enable automatic alarms
 
 Add a shift and check its preparation times. Enable the alarms you want, allow the system permission, and wait for confirmation of the next scheduled alarm. Automatic alarms require iOS/iPadOS 26 or later. Set permissions separately on each device where you want them.
@@ -58,6 +64,12 @@ These are bill totals, not live balances or card statements. Shared-bill reimbur
 From version 1.2.0, Premium costs £3.99 once in the UK and removes ads and unlocks automatic shift alarms. The app shows your local App Store price before purchase. There is no new subscription. Choose Restore Purchases with the Apple Account that originally bought Premium; your optional Apple/Google cloud sign-in is separate.
 
 Previous customers with a verified, non-refunded paid monthly or yearly transaction receive permanent Premium at no extra cost, including after expiry. A free trial alone does not qualify. You can cancel an old subscription's remaining renewal through Apple's subscription settings and keep this permanent unlock. For App Store refunds, use Apple's Report a Problem service.
+
+## Redeem an Apple Premium offer
+
+From build 57, Settings → Redeem an Apple offer code opens Apple's redemption screen. An official free offer for Premium gives the same permanent ad-free access and automatic alarms as the one-time purchase. Redemption uses your App Store Apple Account. Use Restore Purchases on another device with that same purchasing account.
+
+Developer-issued codes from older builds no longer unlock Premium. Contact support if you previously received one so we can arrange an official Apple offer when the product is approved. A code's redemption deadline does not make the redeemed lifetime purchase expire.
 
 ## Home Screen and Lock Screen widgets
 
